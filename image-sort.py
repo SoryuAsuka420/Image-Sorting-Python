@@ -1,4 +1,5 @@
-#Install Pillow library with: pip install Pillow?
+#Install Pillow library with: pip install pillow
+#!/usr/bin/env python3
 import os
 from pathlib import Path
 from PIL import Image, ExifTags
